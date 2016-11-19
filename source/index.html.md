@@ -1,5 +1,5 @@
 ---
-title: ObservePoint v2 v
+title: ObservePoint API
 language_tabs:
   - shell: Shell
   - http: HTTP
@@ -14,7 +14,7 @@ search: true
 highlight_theme: darkula
 ---
 
-# ObservePoint v2 v
+# ObservePoint API
 
 
 
